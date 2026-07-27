@@ -17,3 +17,5 @@ elif opertor == '/':
         print("Division = " , num_1/num_2)
 elif opertor == '%':
     print("Remainder = " , num_1 % num_2)
+else:
+    print("Invalid operator.")
